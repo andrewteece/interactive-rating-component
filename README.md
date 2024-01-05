@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-[./images/Frontend Mentor Interactive rating component.png]
+![](./images/Frontend Mentor Interactive rating component.png)
 
 ### Links
 
