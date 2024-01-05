@@ -154,3 +154,13 @@ body {
   line-height: 1.7;
   cursor: pointer;
 }
+
+@media (min-width: 50rem) {
+  .card {
+    max-width: 25.75rem;
+  }
+
+  .card h1 {
+    font-size: var(--fs-28);
+  }
+}
