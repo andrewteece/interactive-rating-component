@@ -10,7 +10,6 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
     - [The challenge](#the-challenge)
     - [Screenshot](#screenshot)
     - [Links](#links)
-  - [My process](#my-process)
     - [Built with](#built-with)
   - [Author](#author)
 
@@ -27,12 +26,13 @@ Users should be able to:
 
 ### Screenshot
 
+[images/Frontend Mentor Interactive rating component.png]
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/andrewteece/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://dreamy-chebakia-067c19.netlify.app/)
+- Solution URL: [https://github.com/andrewteece/interactive-rating-component]
+- Live Site URL: [https://dreamy-chebakia-067c19.netlify.app/]
 
-## My process
 
 ### Built with
 
@@ -43,5 +43,5 @@ Users should be able to:
 - Vanilla JS
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/andrewteece)
+- Frontend Mentor - [@andrewteece](https://www.frontendmentor.io/profile/andrewteece)
 
